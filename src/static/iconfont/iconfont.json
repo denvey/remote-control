@@ -1,0 +1,65 @@
+{
+  "id": "1678696",
+  "name": "遥控器",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "339044",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "356332",
+      "name": "加",
+      "font_class": "jia",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "785013",
+      "name": "菜单",
+      "font_class": "caidan1",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "1304875",
+      "name": "减",
+      "font_class": "jian",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "1486835",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "1687284",
+      "name": "设置",
+      "font_class": "ziyuan",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "5269234",
+      "name": "返回",
+      "font_class": "fanhui",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "7617411",
+      "name": "关机",
+      "font_class": "guanji",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    }
+  ]
+}
